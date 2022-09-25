@@ -40,4 +40,4 @@ Salesforce is not just a CRM, It provides you with a lot of features and functio
 2. Platform Tools: You do most of your customization in Platform Tools. You can view and manage your data model, create apps, modify the user interface, and deploy new features to your users. If you decide to try your hand at programmatic development, Platform Tools is where you also manage your code.
 3. Settings: Finally, Settings is where you manage your company information and org security. You can do things like add business hours, change your locale, and view your org’s history.
 
-![Top five Setup pages](../assets/setup.png)
+![Top five Setup pages](../../assets/setup.png)

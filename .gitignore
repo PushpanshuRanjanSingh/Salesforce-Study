@@ -1,2 +1,6 @@
 .DS_Store
 Icon
+"Icon\r"
+Icon?
+Icon$'\r'
+*.DS_Store
